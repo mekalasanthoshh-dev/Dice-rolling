@@ -33,7 +33,7 @@ const DiceRolling = () => {
                     </div> 
         </div>
         
-        {/* button */}
+                {/* button sor submitting*/}
         <div className="roll">
         <button type='button' className='button rollbtn' onClick={rollbtn}>Dice Roll</button>
         </div>
