@@ -30,7 +30,7 @@ const DiceRolling = () => {
             {/* second dice */}
             <div className="roll-box">
             {renderDot(seconddice)}
-            </div>
+                    </div> 
         </div>
         
         {/* button */}
